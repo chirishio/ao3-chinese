@@ -1,6 +1,6 @@
 维护者：Chirishio
-版本号：1.0.2
-更新时间：2025-08-22
+版本号：1.0.3
+更新时间：2025-08-25
 
 
 词条
@@ -32,7 +32,6 @@ Dolmenic Cognitive Reconstruction Therapy：多尔曼巨石阵式认知断层重
 通用词条
 
 // 
-eito：苍月
 Hiruko：雫原
 Gaku：丸子
 School Invaders：侵校生
@@ -53,6 +52,7 @@ the 2nd Scenario：二周目
 Artificial Satellite：人造天体
 cryptoglobin：异血
 Second-to-Last Defense Academy：第二防卫学园
+
 
 禁翻词条
 
